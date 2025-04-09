@@ -13,6 +13,6 @@ Ready to solve complex problems and work productively in a team. I am looking fo
 ![My Skills](https://skillicons.dev/icons?i=svg,styledcomponents,firebase,github,git,figma)
 
 💡 **My Projects:**
-1. **![favicon](https://github.com/user-attachments/assets/5525132e-e033-4c61-91a9-b8886fbc8f0b)
+1. **![icons8-здоровое-питание-48](https://github.com/user-attachments/assets/14f2283f-619d-4c98-bf27-264953eaf949)
  MacroMate** - An application that allows you to monitor your daily norm of calories, proteins, fats and carbohydrates, depending on the needs and anthropometric data of the user.
 IT Academy's final project as part of the course Web Application Development Using React. Live Demo: [MacroMate app](https://macromate-796f7.web.app)
