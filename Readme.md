@@ -33,4 +33,12 @@ IT Academy's final project as part of the course Web Application Development wit
 (HTML, CSS, JS, adaptive layout for desktops, tablets and mobile devices)  
 **Demo:** [Christmas-shop website](https://bolbotunov.github.io/Christmas-Shop/)
 
+4. **![IG](https://github.com/user-attachments/assets/d5b77698-c1e9-4501-aee4-4daf804e7230)
+ Image-gallery** - Adaptive website for searching pictures (project within RS School).
+(HTML, CSS, JS, adaptive layout for desktops, tablets and mobile devices, using API from Unsplash)  
+**Demo:** [Image-gallery](https://bolbotunov.github.io/Image-gallery/)
+
+
+
+
 
