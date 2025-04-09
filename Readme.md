@@ -26,6 +26,11 @@ IT Academy's final project as part of the course Web Application Development wit
 3. **![AP](https://github.com/user-attachments/assets/e95b110c-8044-4a4a-aa50-d8881df4e754)
  AudioPlayer** - Audio player for listening to tracks (project within RS School).
 (HTML, CSS, JS, adaptive layout for desktops, tablets and mobile devices)  
-**Demo:** [AudioPlayer app](https://rolling-scopes-school.github.io/bolbotunov-JSFEPRESCHOOL2024Q2/audio-player/)
+**Demo:** [AudioPlayer app](https://rolling-scopes-school.github.io/bolbotunov-JSFEPRESCHOOL2024Q2/audio-player/)  
+
+4. **![CS](https://github.com/user-attachments/assets/3a9a3500-d05d-429e-9cc2-496b41a60ac3)
+ Christmas-shop website** - Adaptive website for Christmas gifts (project within RS School).
+(HTML, CSS, JS, adaptive layout for desktops, tablets and mobile devices)  
+**Demo:** [Christmas-shop website](https://rolling-scopes-school.github.io/bolbotunov-JSFE2024Q4/christmas-shop/)
 
 
