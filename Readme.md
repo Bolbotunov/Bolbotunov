@@ -31,6 +31,6 @@ IT Academy's final project as part of the course Web Application Development wit
 4. **![CS](https://github.com/user-attachments/assets/3a9a3500-d05d-429e-9cc2-496b41a60ac3)
  Christmas-shop website** - Adaptive website for Christmas gifts (project within RS School).
 (HTML, CSS, JS, adaptive layout for desktops, tablets and mobile devices)  
-**Demo:** [Christmas-shop website](https://rolling-scopes-school.github.io/bolbotunov-JSFE2024Q4/christmas-shop/)
+**Demo:** [Christmas-shop website](https://bolbotunov.github.io/Christmas-Shop/)
 
 
