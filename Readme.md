@@ -19,3 +19,6 @@ IT Academy's final project as part of the course Web Application Development Usi
 2. **![TL](https://github.com/user-attachments/assets/6cd09736-754e-43a2-83cd-d948948196cf)
  Traffic Lanes** - A game in which the user regulates the flow of cars at the crossroads to prevent collisions.
 IT Academy's final project as part of the course Web Application Development with JavaScript. (CSS, JavaScript, SVG, OOP, AJAX.) Live Demo: [TrafficLanes app](https://bolbotunov.github.io/traffic_lanes/)
+3. **![AP](https://github.com/user-attachments/assets/e95b110c-8044-4a4a-aa50-d8881df4e754)
+ AudioPlayer** - Audio player for listening to tracks (project within RS School).
+(HTML, CSS, JS, adaptive layout for desktops, tablets and mobile devices) Live Demo: [AudioPlayer app](https://rolling-scopes-school.github.io/bolbotunov-JSFEPRESCHOOL2024Q2/audio-player/)
