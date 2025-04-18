@@ -8,9 +8,9 @@ Ready to solve complex problems and work productively in a team. I am looking fo
 
 🔍 **My main stack:** React, JavaScript, Redux, TypeScript, HTML, CSS.
 
-![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts,html,css)
+![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts,firebase,html,css)
 
-![My Skills](https://skillicons.dev/icons?i=svg,styledcomponents,firebase,github,git,mui,figma)
+![My Skills](https://skillicons.dev/icons?i=svg,styledcomponents,github,gitlab,git,mui,figma)
 
 💡 **My Projects:**
 1. **![MM](https://github.com/user-attachments/assets/aae66416-8ce4-4cf0-a972-1ddd8e65a399)
