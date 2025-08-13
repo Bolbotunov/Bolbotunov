@@ -6,11 +6,11 @@
 I am a result-oriented Frontend developer (a beginner).
 Ready to solve complex problems and work productively in a team. I am looking for new opportunities that will help me grow as a specialist.
 
-🔍 **My main stack:** React, JavaScript, Redux, TypeScript, HTML, CSS.
+🔍 **My main stack:** JavaScript, HTML, CSS, React, Next, TypeScript, RTK, Redux, Syled-Components.
 
-![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts,firebase,docker,html,css)
+![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts,nextjs,firebase,docker,html,css,github,gitlab)
 
-![My Skills](https://skillicons.dev/icons?i=svg,styledcomponents,github,gitlab,git,mui,figma,vercel,vite,yarn,npm)
+![My Skills](https://skillicons.dev/icons?i=svg,styledcomponents,mui,figma,vercel,vite,yarn,npm)
 
 💡 **My Projects:**
 1. **![MM](https://github.com/user-attachments/assets/aae66416-8ce4-4cf0-a972-1ddd8e65a399)
