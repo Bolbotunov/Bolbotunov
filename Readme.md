@@ -10,7 +10,7 @@ Ready to solve complex problems and work productively in a team. I am looking fo
 
 ![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts,nextjs,firebase,docker,html,css,github,gitlab)
 
-![My Skills](https://skillicons.dev/icons?i=svg,styledcomponents,mui,figma,vercel,vite,yarn,npm)
+![My Skills](https://skillicons.dev/icons?i=svg,styledcomponents,mui,figma,jest,vercel,vite,yarn,npm,netlify)
 
 💡 **My Projects:**
 1. **![MM](https://github.com/user-attachments/assets/aae66416-8ce4-4cf0-a972-1ddd8e65a399)
