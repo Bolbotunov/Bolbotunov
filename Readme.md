@@ -1,4 +1,3 @@
-<img width="78" height="38" alt="TD" src="https://github.com/user-attachments/assets/3aa7e8ce-7ee0-4e26-8dce-1efc956f56ad" />  
 # Hello everyone! I'm Konstantin! 
 # Welcome to my github! 
 ## 👩‍💻 About Me
