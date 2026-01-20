@@ -50,7 +50,7 @@ IT Academy's final project as part of the course Web Application Development wit
 - **Demo:** [TrafficLanes app](https://bolbotunov.github.io/traffic_lanes/)
 
 4. **![TD](https://github.com/user-attachments/assets/4a3cc51b-4499-4e47-8e5f-dc63431d1764)
- TodoList** - The TodoList app allows you to add, delete, and view tasks. It also features theme changes and GitHub user search.
+List** - The TodoList app allows you to add, delete, and view tasks. It also features theme changes and GitHub user search.
 
 **Technologies:**
 - React
