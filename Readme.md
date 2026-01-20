@@ -12,7 +12,7 @@ Ready to solve complex problems and work productively in a team. I am looking fo
 
 ![My Skills](https://skillicons.dev/icons?i=svg,styledcomponents,mui,figma,jest,vercel,vite,yarn,npm,netlify)
 
-💡 **My Projects:**
+## 💡 **My Projects:**
 
 1. **![W](https://github.com/user-attachments/assets/9176dea6-8cb7-40b6-8ae7-fb673a3c81d6)
  Weather App** - React app that displays weather in cities, supports search, background changes based on conditions, and displays the user's current tasks.
