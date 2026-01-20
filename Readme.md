@@ -3,7 +3,7 @@
 # Welcome to my github! 
 ## 👩‍💻 About Me
 
-I am a result-oriented Frontend developer (a beginner).
+I am a result-oriented Frontend developer.
 Ready to solve complex problems and work productively in a team. I am looking for new opportunities that will help me grow as a specialist.
 
 🔍 **My main stack:** JavaScript, HTML, CSS, SCSS, React, Next, TypeScript, Redux (Toolkit, Saga, Persist), Syled-Components, MUI
