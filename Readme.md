@@ -45,7 +45,6 @@ IT Academy's final project as part of the course Web Application Development wit
 - JavaScript
 - CSS
 - SVG
-- OOP
 - AJAX
 - **Demo:** [TrafficLanes app](https://bolbotunov.github.io/traffic_lanes/)
 
