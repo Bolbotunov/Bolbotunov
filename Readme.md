@@ -5,7 +5,7 @@
 I am a result-oriented Frontend developer.
 Ready to solve complex problems and work productively in a team. I am looking for new opportunities that will help me grow as a specialist.
 
-🔍 **My main stack:** JavaScript, HTML, CSS, SCSS, React, Next, TypeScript, Redux (Toolkit, Saga, Persist), Syled-Components, MUI
+🔍 **My main stack:** JavaScript, HTML, CSS, SCSS, React, Next, TypeScript, Redux (Toolkit, Saga, Persist), RTK query, TanStack query, Syled-Components, MUI
 
 ![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts,nextjs,firebase,docker,html,css,github,gitlab)
 
