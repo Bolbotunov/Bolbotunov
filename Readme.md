@@ -2,10 +2,24 @@
 # Welcome to my github! 
 ## 👩‍💻 About Me
 
-I am a result-oriented Frontend developer.
-Ready to solve complex problems and work productively in a team. I am looking for new opportunities that will help me grow as a specialist.
+I am a Frontend Developer with 1 year of commercial experience (React, Next.js, TypeScript). I participated in the
+development of web applications: an online store, an admin panel, and B2B services. I worked with a catalog, forms, a
+user account, and Bitrix24 integrations. I focus on clean code and transparent processes. I am looking for a team where I
+can consolidate and expand my skills.
 
-🔍 **My main stack:** JavaScript, HTML, CSS, SCSS, React, Next, TypeScript, Redux (Toolkit, Saga, Persist), RTK query, TanStack query, Syled-Components, MUI, FireBase
+## 🔍 My Skills
+| Category | Skills |
+|---|---|
+| **Languages & Markup** | JavaScript, TypeScript, HTML, CSS |
+| **Frameworks & Routing** | React, Next.js (App Router), React Router |
+| **State Management** | Redux (Toolkit, Saga, Persist), Zustand |
+| **API & Data** | RTK Query, TanStack Query, axios, Firebase, Bitrix24 (client-side integration) |
+| **Styling, UI & Graphics** | SCSS, Tailwind, Styled Components, MUI, SVG, Canvas |
+| **Forms & Validation** | React Hook Form, Zod |
+| **Testing** | Jest, React Testing Library |
+| **Build & Deployment** | Vite, Webpack, Vercel, Netlify |
+| **Dev & Design Tools** | Git, ESLint, Prettier, Husky, Figma |
+| **Internationalization** | i18n (next-intl) |
 
 ![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts,nextjs,firebase,docker,html,css,github,gitlab)
 
