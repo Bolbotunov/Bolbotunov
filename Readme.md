@@ -1,5 +1,4 @@
-# Hello everyone! I'm Konstantin! 
-# Welcome to my github! 
+# Hello everyone! I'm Konstantin! Welcome to my github!
 ## 👩‍💻 About Me
 
 I am a Frontend Developer with 1 year of commercial experience (React, Next.js, TypeScript). I participated in the
