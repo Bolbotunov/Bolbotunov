@@ -26,18 +26,7 @@ can consolidate and expand my skills.
 
 ## 💡 **My Projects:**
 
-1. **![W](https://github.com/user-attachments/assets/9176dea6-8cb7-40b6-8ae7-fb673a3c81d6)
- Weather App** - React app that displays weather in cities, supports search, background changes based on conditions, and displays the user's current tasks.
-
-**Technologies:**
-- React
-- TypeScript
-- Redux (saga, persist)
-- Jest
-- Scss
-- **Demo:** [Weather App](https://weather-bolbotunov.netlify.app/)
-
-2. **![MM](https://github.com/user-attachments/assets/aae66416-8ce4-4cf0-a972-1ddd8e65a399)
+1. **![MM](https://github.com/user-attachments/assets/aae66416-8ce4-4cf0-a972-1ddd8e65a399)
  MacroMate** - An application that allows you to monitor your daily norm of calories, proteins, fats and carbohydrates, depending on the needs and anthropometric data of the user.
 IT Academy's final project as part of the course Web Application Development Using React.
 
@@ -49,8 +38,38 @@ IT Academy's final project as part of the course Web Application Development Usi
 - FireBase
 - Formik / Yup
 - **Demo:** [MacroMate app](https://macromate-796f7.web.app)
+- **Code:** [GitHub Repository](https://github.com/Bolbotunov/MacroMate)
 
-3. **![TL](https://github.com/user-attachments/assets/6cd09736-754e-43a2-83cd-d948948196cf)
+2. **![PC](<img width="217" height="72" alt="PCatalog" src="https://github.com/user-attachments/assets/25b0e191-8da1-4933-9596-b24a9f3a6b1b" />
+)
+ Product Catalog** - An e-commerce Single Page Application (SPA) featuring a dynamic product catalog with debounced search, multi-criteria filtering, sorting, and pagination. Demonstrates a clear separation of state management: TanStack Query for server state (caching API) and Redux Toolkit for client state (persistent shopping cart). Includes dark/light theme, skeleton loading, error boundaries, and responsive design.
+
+**Technologies:**
+- React 19
+- TypeScript (strict mode)
+- Redux Toolkit
+- TanStack Query
+- SCSS Modules
+- Vite
+- Jest + React Testing Library
+- ESLint / Prettier / Husky
+- **Demo:** [Product Catalog](https://bolbotunov-catalog.netlify.app/)
+- **Code:** [GitHub Repository](https://github.com/Bolbotunov/ProductCatalog)
+- 
+3. **![W](https://github.com/user-attachments/assets/9176dea6-8cb7-40b6-8ae7-fb673a3c81d6)
+ Weather App** - React app that displays weather in cities, supports search, background changes based on conditions, and displays the user's current tasks.
+
+**Technologies:**
+- React
+- TypeScript
+- Redux (saga, persist)
+- Jest
+- Scss
+- **Demo:** [Weather App](https://weather-bolbotunov.netlify.app/)
+- **Code:** [GitHub Repository](https://github.com/Bolbotunov/Weather)
+
+
+4. **![TL](https://github.com/user-attachments/assets/6cd09736-754e-43a2-83cd-d948948196cf)
  Traffic Lanes** - A game in which the user regulates the flow of cars at the crossroads to prevent collisions.
 IT Academy's final project as part of the course Web Application Development with JavaScript.
 
@@ -61,7 +80,7 @@ IT Academy's final project as part of the course Web Application Development wit
 - AJAX
 - **Demo:** [TrafficLanes app](https://bolbotunov.github.io/traffic_lanes/)
 
-4. **![TD](https://github.com/user-attachments/assets/4a3cc51b-4499-4e47-8e5f-dc63431d1764)
+5. **![TD](https://github.com/user-attachments/assets/4a3cc51b-4499-4e47-8e5f-dc63431d1764)
 List** - The TodoList app allows you to add, delete, and view tasks. It also features theme changes and GitHub user search.
 
 **Technologies:**
@@ -72,7 +91,7 @@ List** - The TodoList app allows you to add, delete, and view tasks. It also fea
 - **Demo:** [TodoList](https://main--todo-list-bolbotunov.netlify.app/)
 
 
-5. **![AP](https://github.com/user-attachments/assets/e95b110c-8044-4a4a-aa50-d8881df4e754)
+6. **![AP](https://github.com/user-attachments/assets/e95b110c-8044-4a4a-aa50-d8881df4e754)
  AudioPlayer** - Audio player for listening to tracks (project within RS School).
 
 **Technologies:**
@@ -82,7 +101,7 @@ List** - The TodoList app allows you to add, delete, and view tasks. It also fea
 - adaptive layout for desktops, tablets and mobile device
 - **Demo:** [AudioPlayer app](https://bolbotunov.github.io/Audio-player/) 
 
-6. **![CS](https://github.com/user-attachments/assets/3a9a3500-d05d-429e-9cc2-496b41a60ac3)
+7. **![CS](https://github.com/user-attachments/assets/3a9a3500-d05d-429e-9cc2-496b41a60ac3)
  Christmas-shop website** - Adaptive website for Christmas gifts (project within RS School).
 
 **Technologies:**
@@ -92,7 +111,7 @@ List** - The TodoList app allows you to add, delete, and view tasks. It also fea
 - adaptive layout for desktops, tablets and mobile device
 - **Demo:** [Christmas-shop website](https://bolbotunov.github.io/Christmas-Shop/)
 
-7. **![IG](https://github.com/user-attachments/assets/d5b77698-c1e9-4501-aee4-4daf804e7230)
+8. **![IG](https://github.com/user-attachments/assets/d5b77698-c1e9-4501-aee4-4daf804e7230)
  Image-gallery** - Adaptive website for searching pictures (project within RS School).
 
 **Technologies:**
