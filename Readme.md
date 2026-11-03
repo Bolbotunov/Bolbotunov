@@ -40,8 +40,7 @@ IT Academy's final project as part of the course Web Application Development Usi
 - **Demo:** [MacroMate app](https://macromate-796f7.web.app)
 - **Code:** [GitHub Repository](https://github.com/Bolbotunov/MacroMate)
 
-2. **![PC](https://github.com/user-attachments/assets/7fe2c872-85ce-4d21-a915-75f668c0324a)
- Product Catalog** - An Single Page Application (SPA) featuring a dynamic product catalog with debounced search, multi-criteria filtering, sorting, and pagination. Demonstrates a clear separation of state management: TanStack Query for server state (caching API) and Redux Toolkit for client state (persistent shopping cart). Includes dark/light theme, skeleton loading, error boundaries, and responsive design.
+2. **![PC]([https://github.com/user-attachments/assets/7fe2c872-85ce-4d21-a915-75f668c0324a](https://github.com/user-attachments/assets/c5d60c83-5662-47ac-947e-69c25302d6e9) Product Catalog** - An Single Page Application (SPA) featuring a dynamic product catalog with debounced search, multi-criteria filtering, sorting, and pagination. Demonstrates a clear separation of state management: TanStack Query for server state (caching API) and Redux Toolkit for client state (persistent shopping cart). Includes dark/light theme, skeleton loading, error boundaries, and responsive design.
 
 **Technologies:**
 - React 19
