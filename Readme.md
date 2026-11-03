@@ -37,8 +37,8 @@ IT Academy's final project as part of the course Web Application Development Usi
 - Styled-Components
 - FireBase
 - Formik / Yup
-- **Demo:** [MacroMate app](https://macromate-796f7.web.app)
-- **Code:** [GitHub Repository](https://github.com/Bolbotunov/MacroMate)
+**Demo:** [MacroMate app](https://macromate-796f7.web.app)
+**Code:** [GitHub Repository](https://github.com/Bolbotunov/MacroMate)
 
 2. **![PC](https://github.com/user-attachments/assets/c5d60c83-5662-47ac-947e-69c25302d6e9) Product Catalog** - An Single Page Application (SPA) featuring a dynamic product catalog with debounced search, multi-criteria filtering, sorting, and pagination. Demonstrates a clear separation of state management: TanStack Query for server state (caching API) and Redux Toolkit for client state (persistent shopping cart). Includes dark/light theme, skeleton loading, error boundaries, and responsive design.
 
@@ -51,9 +51,9 @@ IT Academy's final project as part of the course Web Application Development Usi
 - Vite
 - Jest + React Testing Library
 - ESLint / Prettier / Husky
-- **Demo:** [Product Catalog](https://bolbotunov-catalog.netlify.app/)
-- **Code:** [GitHub Repository](https://github.com/Bolbotunov/ProductCatalog)
-- 
+**Demo:** [Product Catalog](https://bolbotunov-catalog.netlify.app/)
+**Code:** [GitHub Repository](https://github.com/Bolbotunov/ProductCatalog)
+  
 3. **![W](https://github.com/user-attachments/assets/9176dea6-8cb7-40b6-8ae7-fb673a3c81d6)
  Weather App** - React app that displays weather in cities, supports search, background changes based on conditions, and displays the user's current tasks.
 
@@ -63,8 +63,8 @@ IT Academy's final project as part of the course Web Application Development Usi
 - Redux (saga, persist)
 - Jest
 - Scss
-- **Demo:** [Weather App](https://weather-bolbotunov.netlify.app/)
-- **Code:** [GitHub Repository](https://github.com/Bolbotunov/Weather)
+**Demo:** [Weather App](https://weather-bolbotunov.netlify.app/)
+**Code:** [GitHub Repository](https://github.com/Bolbotunov/Weather)
 
 
 4. **![TL](https://github.com/user-attachments/assets/6cd09736-754e-43a2-83cd-d948948196cf)
@@ -76,7 +76,7 @@ IT Academy's final project as part of the course Web Application Development wit
 - CSS
 - SVG
 - AJAX
-- **Demo:** [TrafficLanes app](https://bolbotunov.github.io/traffic_lanes/)
+**Demo:** [TrafficLanes app](https://bolbotunov.github.io/traffic_lanes/)
 
 5. **![TD](https://github.com/user-attachments/assets/4a3cc51b-4499-4e47-8e5f-dc63431d1764)
 List** - The TodoList app allows you to add, delete, and view tasks. It also features theme changes and GitHub user search.
@@ -86,7 +86,7 @@ List** - The TodoList app allows you to add, delete, and view tasks. It also fea
 - Typescript
 - SCSS
 - adaptive layout for desktops, tablets and mobile device
-- **Demo:** [TodoList](https://main--todo-list-bolbotunov.netlify.app/)
+**Demo:** [TodoList](https://main--todo-list-bolbotunov.netlify.app/)
 
 
 6. **![AP](https://github.com/user-attachments/assets/e95b110c-8044-4a4a-aa50-d8881df4e754)
@@ -97,7 +97,7 @@ List** - The TodoList app allows you to add, delete, and view tasks. It also fea
 - JavaScript
 - CSS
 - adaptive layout for desktops, tablets and mobile device
-- **Demo:** [AudioPlayer app](https://bolbotunov.github.io/Audio-player/) 
+**Demo:** [AudioPlayer app](https://bolbotunov.github.io/Audio-player/) 
 
 7. **![CS](https://github.com/user-attachments/assets/3a9a3500-d05d-429e-9cc2-496b41a60ac3)
  Christmas-shop website** - Adaptive website for Christmas gifts (project within RS School).
@@ -107,7 +107,7 @@ List** - The TodoList app allows you to add, delete, and view tasks. It also fea
 - JavaScript
 - CSS
 - adaptive layout for desktops, tablets and mobile device
-- **Demo:** [Christmas-shop website](https://bolbotunov.github.io/Christmas-Shop/)
+**Demo:** [Christmas-shop website](https://bolbotunov.github.io/Christmas-Shop/)
 
 8. **![IG](https://github.com/user-attachments/assets/d5b77698-c1e9-4501-aee4-4daf804e7230)
  Image-gallery** - Adaptive website for searching pictures (project within RS School).
@@ -118,7 +118,7 @@ List** - The TodoList app allows you to add, delete, and view tasks. It also fea
 - CSS
 - adaptive layout for desktops, tablets and mobile device
 - using API from Unsplash
-- **Demo:** [Image-gallery](https://bolbotunov.github.io/Image-gallery/)
+**Demo:** [Image-gallery](https://bolbotunov.github.io/Image-gallery/)
 
 
 
