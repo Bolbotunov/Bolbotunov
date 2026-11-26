@@ -1,10 +1,7 @@
 # Hello everyone! I'm Konstantin! Welcome to my github!
 ## 👩‍💻 About Me
 
-I am a Frontend Developer with 1 year of commercial experience (React, Next.js, TypeScript). I participated in the
-development of web applications: an online store, an admin panel, and B2B services. I worked with a catalog, forms, a
-user account, and Bitrix24 integrations. I focus on clean code and transparent processes. I am looking for a team where I
-can consolidate and expand my skills.
+Frontend Developer with experience in web development (React, Next.js, TypeScript). I participated in the development of web applications: an online store, an admin panel, and B2B services. I worked with a catalog, forms, a user account, and Bitrix24 integrations. I focus on clean code and transparent processes. I am looking for a team where I can consolidate and expand my skills.
 
 ## 🔍 My Skills
 | Category | Skills |
